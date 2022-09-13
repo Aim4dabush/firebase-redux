@@ -1,0 +1,7 @@
+.user {
+  align-items: center;
+  border: 2px dotted blue;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1em;
+}
